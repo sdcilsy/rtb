@@ -5,20 +5,20 @@
 *.orig
 
 # File uploads and what not
-files/avatars/*-*
-files/avatars/user/*
+#files/avatars/*-*
+#files/avatars/user/*
 
-files/avatars/team/*
-files/avatars/box/*
-files/avatars/upload/*
-files/story/*
-files/icons/*-*
-files/shares/*-*
-files/source_code_market/*-*
-files/game_materials/*
-files/flag_attachments/*
-files/*.db
-files/*.cfg
+#files/avatars/team/*
+#files/avatars/box/*
+#files/avatars/upload/*
+#files/story/*
+#files/icons/*-*
+#files/shares/*-*
+#files/source_code_market/*-*
+#files/game_materials/*
+#files/flag_attachments/*
+#files/*.db
+#files/*.cfg
 
 #Alembic
 alembic/alembic.ini
